@@ -23,6 +23,7 @@ fn main(){
     println!("spawn1 over");
     handle.join();
     //sleep(time::Duration::new(1,0));
-    //branch 1  update new
+    //branch 1  update new 
+    //branch 1  update new 2 
     println!("hdd main over");
 }
